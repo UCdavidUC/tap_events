@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.eventname {
+    background-color: #244f82;
+    color: white;
+    padding: 25px;
+    font-size: 84;
+}
+.eventdetails {
+    background-color: #fdfdff;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.eventform {
+    background-color: #fdfdff;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.eventdetailsheader {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 84;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.eventdetails {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 84;
+    padding-bottom: 15px;
+}
+.logo-headings {
+    padding-top: 50px;
+}
+.title-headings {
+    padding-bottom: 50px;
+}

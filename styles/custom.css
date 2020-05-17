@@ -36,3 +36,7 @@ body {
 .title-headings {
     padding-bottom: 50px;
 }
+.disclaimer {
+    font-size: 14;
+    color: gray;
+}
